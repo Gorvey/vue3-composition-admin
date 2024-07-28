@@ -1,0 +1,1152 @@
+repo_name: Gorvey/vue3-composition-admin
+report_id: 301290f00b2af20530d20d618b731736
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-28T02:13:49+00:00'
+requested_by: RainManGO
+provider: github
+branch: main
+detected_tools_count: 80
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin
+  detection_source: Repo Metadata
+- name: ECharts
+  description: A free, powerful charting and visualization library
+  website_url: https://echarts.apache.org/en/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4230/aSzYQa43_400x400.jpg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-15 09:45:55.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-28 09:05:19.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-16 09:13:13.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: babel.config.js
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-08 07:28:24.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/.github/workflows/deploy.yml
+  detection_source: ".github/workflows/deploy.yml"
+  last_updated_by: Zy
+  last_updated_on: 2021-01-23 08:09:29.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Zy
+  last_updated_on: 2021-01-25 07:47:32.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: ZY
+  last_updated_on: 2021-08-16 00:56:47.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.20
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-15 09:45:55.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: TinyMCE
+  description: JavaScript library for rich text editing
+  website_url: https://www.tiny.cloud/
+  version: 5.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/3655/eVcDQYNK_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: log4js
+  description: How people build software
+  website_url: http://stritti.github.io/log4js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3962/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: jszip
+  description: Create
+  package_url: https://www.npmjs.com/jszip
+  version: 3.5.0
+  license: MIT,GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16628/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 孙崇洋
+  last_updated_on: 2021-01-25 08:13:17.000000000 Z
+  vulnerabilities:
+  - name: JSZip contains Path Traversal via loadAsync
+    cve_id: CVE-2022-48285
+    cve_url: https://github.com/advisories/GHSA-36fh-84j7-cv5h
+    detected_date: Feb 2
+    severity: high
+    first_patched: 3.8.0
+  - name: jszip Vulnerable to Prototype Pollution
+    cve_id: CVE-2021-23413
+    cve_url: https://github.com/advisories/GHSA-jg8v-48h5-wgxg
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.7.0
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.16.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 孙崇洋
+  last_updated_on: 2021-01-13 06:44:59.000000000 Z
+  vulnerabilities:
+  - name: SheetJS Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-22363
+    cve_url: https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+    detected_date: Apr 9
+    severity: high
+    first_patched: 0.20.2
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+  - name: Denial of Service in SheetsJS Pro
+    cve_id: CVE-2021-32013
+    cve_url: https://github.com/advisories/GHSA-8vcr-vxm8-293m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32012
+    cve_url: https://github.com/advisories/GHSA-3x9f-74h4-2fqr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32014
+    cve_url: https://github.com/advisories/GHSA-g973-978j-2c3p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+- name: log4js
+  description: Port of Log4js to work with node
+  package_url: https://www.npmjs.com/log4js
+  version: 6.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16355/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Default Permissions in log4js
+    cve_id: CVE-2022-21704
+    cve_url: https://github.com/advisories/GHSA-82v2-mx6x-wq7q
+    detected_date: Jan 22
+    severity: moderate
+    first_patched: 6.4.0
+- name: "@types/faker"
+  description: TypeScript definitions for faker
+  package_url: https://www.npmjs.com/@types/faker
+  version: 5.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17400/default_68a60246a766655932541acc39422873bd51360a.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 24.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@types/koa"
+  description: TypeScript definitions for Koa
+  package_url: https://www.npmjs.com/@types/koa
+  version: 2.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@types/koa-router"
+  description: TypeScript definitions for koa-router
+  package_url: https://www.npmjs.com/@types/koa-router
+  version: 7.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17458/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.168
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.34.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 4.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 4.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: "@vue/cli-plugin-typescript"
+  description: Typescript plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-typescript
+  version: 4.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16851/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: "@vue/cli-plugin-unit-jest"
+  description: Unit-jest plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-unit-jest
+  version: 4.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16558/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-06 00:52:09.000000000 Z
+- name: "@vue/eslint-config-standard"
+  description: Eslint-config-standard for Vue CLI
+  package_url: https://www.npmjs.com/@vue/eslint-config-standard
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16540/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: "@vue/eslint-config-typescript"
+  description: Eslint-config-typescript for vue-cli
+  package_url: https://www.npmjs.com/@vue/eslint-config-typescript
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18076/image.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-27 12:11:41.000000000 Z
+- name: "@vue/test-utils"
+  description: Utilities for testing Vue components
+  package_url: https://www.npmjs.com/@vue/test-utils
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16231/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-08 07:28:24.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-16 09:13:13.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-04 08:42:34.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-06 00:52:09.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-08 07:28:24.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.10.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-19 01:15:05.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.2.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 7.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 15:59:10.000000000 Z
+- name: faker
+  description: Generate massive amounts of fake contextual data
+  package_url: https://www.npmjs.com/faker
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16327/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-15 09:45:55.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-15 13:59:42.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-21 06:32:34.000000000 Z
+- name: koa-body
+  description: A Koa body parser middleware
+  package_url: https://www.npmjs.com/koa-body
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17200/default_21a37a533dd8aea78721b028b3e7b47e018dcb48.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-06 00:52:09.000000000 Z
+- name: koa-logger
+  description: Logging middleware for koa
+  package_url: https://www.npmjs.com/koa-logger
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17316/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2021-01-06 00:52:09.000000000 Z
+- name: koa-router
+  description: Router middleware for koa
+  package_url: https://www.npmjs.com/koa-router
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16329/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 孙崇洋
+  last_updated_on: 2021-01-27 09:30:08.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: nprogress
+  description: Simple slim progress bars
+  package_url: https://www.npmjs.com/nprogress
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17061/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-28 09:05:19.000000000 Z
+- name: path-to-regexp
+  description: Express style path to RegExp utility
+  package_url: https://www.npmjs.com/path-to-regexp
+  version: 0.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-22 09:40:18.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-10 07:15:35.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-16 09:13:13.000000000 Z
+- name: screenfull
+  description: Simple wrapper for cross-browser usage of the JavaScript Fullscreen
+    API
+  package_url: https://www.npmjs.com/screenfull
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17952/default_d8903d76dded6915fe2da53370802097e7af05c2.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-24 01:26:14.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-19 12:19:15.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-16 09:13:13.000000000 Z
+- name: ts-node-dev
+  description: Compiles your TS app and restarts when files are modified
+  package_url: https://www.npmjs.com/ts-node-dev
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17644/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 王继民
+  last_updated_on: 2021-01-16 09:13:13.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-07 02:30:36.000000000 Z
+- name: vue-class-component
+  description: ES201X/TypeScript class decorator for Vue components
+  package_url: https://www.npmjs.com/vue-class-component
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16641/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 16:21:46.000000000 Z
+- name: vue-i18n
+  description: Internationalization plugin for Vue.js
+  package_url: https://www.npmjs.com/vue-i18n
+  version: 9.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 16:21:46.000000000 Z
+- name: vue-jest
+  description: Jest Vue transform
+  package_url: https://www.npmjs.com/vue-jest
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16554/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 16:21:46.000000000 Z
+- name: vue-property-decorator
+  description: Property decorators for Vue Component
+  package_url: https://www.npmjs.com/vue-property-decorator
+  version: 9.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16727/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 16:21:46.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: M69W
+  last_updated_on: 2021-03-25 16:21:46.000000000 Z
+- name: webpackbar
+  description: Elegant ProgressBar and Profiler for Webpack
+  package_url: https://www.npmjs.com/webpackbar
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17969/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/Gorvey/vue3-composition-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: 张宇
+  last_updated_on: 2020-12-09 03:52:04.000000000 Z
